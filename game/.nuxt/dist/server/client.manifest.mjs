@@ -1,0 +1,1 @@
+export { default } from "file:///home/colton_c/aspdotnetclass/EWU-CSCD379-2024-Spring/game/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
